@@ -1,6 +1,6 @@
 # Anna
 
-![xxx](/Photo/Anna.png "แอนนาเองคร่าาาา")
+![xxx](/Photos/Anna.png "แอนนาเองคร่าาาา")
 
 + Name: Anna
 + Education: Advanced
