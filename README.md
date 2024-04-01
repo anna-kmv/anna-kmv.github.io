@@ -1,4 +1,4 @@
 # Anna
 
-+ [About me](Anna)
-+ [Lifeat](CSC.md)
++ [About Me](Anna)
++ [Life at CSC](CSC)
