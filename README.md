@@ -1,4 +1,4 @@
 # Anna
 
-+ [Abuot me](Anna.md)
++ [Abuot me](Anna)
 + [Lifeat](CSC.md)
