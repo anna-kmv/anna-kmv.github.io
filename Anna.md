@@ -4,4 +4,4 @@
 
 + Name: Anna
 + Education: Advanced
-+ S
++ Studide at school : Polytechnic Laos
