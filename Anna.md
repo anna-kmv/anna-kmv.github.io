@@ -5,3 +5,4 @@
 + Name: Anna
 + Education: Advanced
 + Studide at school : Polytechnic Laos
++ Faculty : IT industry
