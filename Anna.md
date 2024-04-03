@@ -1,7 +1,7 @@
 # Anna
 
 ![xxx](/Photos/anna.jpg "แอนนาเองคร่าาาา")
-
+<img src='/Photos/anna.jpg' width='250'>
 + Name: Anna
 + Education: Advanced
 + Studide at school : Polytechnic Laos
