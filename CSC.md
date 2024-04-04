@@ -29,5 +29,3 @@
  <img src='/Photos/aiy.jpg' width='250'>
  <img src='/Photos/pham.jpg' width='250'>
  <img src='/Photos/pnik.jpg' width='250'>
-
- + <img src='/Photos/bookig.png' width='50'>
