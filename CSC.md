@@ -25,7 +25,7 @@
 + ອ້າຍ ແຮ້ມ
 + ອ້າຍ ນິກ 
 
-  <img src='/Photos/aiy.jpg' width='250'>
  <img src='/Photos/pky.jpg' width='250'>
+ <img src='/Photos/aiy.jpg' width='250'>
  <img src='/Photos/pham.jpg' width='250'>
  <img src='/Photos/pnik.jpg' width='250'>
