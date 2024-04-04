@@ -13,7 +13,7 @@
 + [XAMPP](https://www.apachefriends.org/)
 + ได้เรียนรู้การใช้ Visual Studio cod
 + [Visual Studio cod](https://code.visualstudio.com/)
-+ 45 ມື້ໃນ CSC ແລະ Dev
++ 45 ມື້ໃນການເຝີກງານ ໃນສາຍງານ CSC ແລະ Dev
 +  ສຶກສາ Porgrme Figma ແລະ ອອກແບບ UX/UI ດ້ວຍຕົນເອງ
 +  ອອກແບບແອັບ Carbooking ໂດຍແມ່ນການເຮັດວຽກເປັນທີມນຳກັນສາມຄົນທີ່ມາເຝີກງານ(ສຸກທະເສນ,ໂຈ) ພາຍໃຕ້ຄໍາແນະນຳຂອງພວກອ້າຍໆໃນສາງານ Dev
 + ໄດ້ຮູ້ວີທີໃຊ້ XAMPP , WorPress
